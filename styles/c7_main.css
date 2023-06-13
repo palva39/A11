@@ -17,6 +17,16 @@ body {
 a:focus, a:hover {
 	font-style: italic;
 }
+
+nav ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+nav li{
+	float:left;
+
+}
 /* the styles for the header */
 header {
 	padding: 1.5em 0 2em 0;
